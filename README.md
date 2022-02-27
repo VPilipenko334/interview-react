@@ -1,2 +1,2 @@
-# interview-react
+# interview
 Created with CodeSandbox
